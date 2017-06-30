@@ -1,0 +1,14 @@
+.Prompt input {
+  width: calc(100% - 80px);
+  height: 20px;
+  border-left: none;
+  border-right: none;
+  border-top: none;
+  outline: none;
+}
+
+.Prompt button {
+  width: 60px;
+  margin-top: 4px;
+  margin-left: 10px;
+}

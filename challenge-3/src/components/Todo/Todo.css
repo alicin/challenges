@@ -1,0 +1,20 @@
+.Todo-item {
+  border: 1px solid #ddd;
+  margin-bottom: 5px;
+  border-radius: 3px;
+  font-size: 12px;
+}
+
+.Todo-item.done {
+  background: #eee;
+  text-decoration: line-through;
+}
+
+.Todo-item label {
+  display: block;
+  padding: 7px;
+}
+
+.Todo-item input {
+  margin-right: 10px;
+}

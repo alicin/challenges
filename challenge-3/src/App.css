@@ -1,0 +1,33 @@
+.App {
+  max-width: 320px;
+  margin: 60px auto;
+}
+
+.App-logo {
+  width: 100%;
+  height: auto;
+  margin-bottom: 20px;
+}
+
+.App-logo-wrapper {
+  text-align: center;
+}
+
+.block {
+  display: block;
+}
+.left {
+  float: left;
+}
+.right {
+  float: right;
+}
+.cf:before,
+.cf:after {
+    content: ' ';
+    display: table;
+}
+
+.cf:after {
+    clear: both;
+}
